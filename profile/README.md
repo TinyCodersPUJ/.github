@@ -18,8 +18,7 @@ Desarrollar un software educativo, implementado con páginas web interactivas, d
 
 # Integrantes del Equipo TinyCoders
 ## María Alejandra Casas
-<img src="https://media.licdn.com/dms/image/v2/D5603AQGs5y3nJLDOKA/profile-displayphoto-scale_400_400/B56ZkXiXjQG0Ag-/0/1757036514456?e=1759968000&v=beta&t=DR6pUS6AQ_uvanJGrHDrWFVfoAEiRD0vf23NRE8LepU" align="left" alt="alt text" title="imagenDiego" height="200px" width="200px"/>
-Soy Aleja
+<img src="https://media.licdn.com/dms/image/v2/D5603AQGs5y3nJLDOKA/profile-displayphoto-crop_800_800/B56ZkXiXjQG0AI-/0/1757036514356?e=1765411200&v=beta&t=fsegTO6cSTcVXgAspqcJwCFz6rvimbAmKq2nh08EZb8" align="left" alt="alt text" title="imagenDiego" height="200px" width="200px"/>
 
 
  **GitHub:** [al-calo](https://github.com/al-calo)
@@ -28,17 +27,14 @@ Soy Aleja
 
 
 ## Natalia Echeverry Salcedo
-<img src="https://media.licdn.com/dms/image/v2/D5603AQGDj9h-p4w9yQ/profile-displayphoto-shrink_800_800/B56ZU5oopLHsAc-/0/1740428710155?e=1759968000&v=beta&t=UdsHVcvt5n05XtGg7G1q_SzQxUZ3lwr4VxhnbFKqEzg" align="left" alt="alt text" title="imagenDiego" height="200px" width="200px"/>
-Soy Nats
-
+<img src="https://media.licdn.com/dms/image/v2/D4E35AQEv7FFqjxOMiA/profile-framedphoto-shrink_800_800/B4EZp1vemkIQAg-/0/1762911972210?e=1764604800&v=beta&t=pvnXK_MRDqvAsdVWDz9KUDaPophFyG_wPOmMZfBirB8" align="left" alt="alt text" title="imagenDiego" height="200px" width="200px"/>
 
  **GitHub:** [natseche](https://github.com/natseche)
  **Email:** nataliaecheverry@javeriana.edu.co 
 <br clear="left"/>
 
 ## Lorena Nuñez Pava
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQFcxUUrcPIDVw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727650178488?e=1759968000&v=beta&t=2gX5FxskPpGnNPvXzm9ldlEeaGL-yLAh623gcf017Q4" align="left" alt="alt text" title="imagenDiego" height="200px" width="200px"/>
-Soy Lorena Nuñez
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQFcxUUrcPIDVw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727650178488?e=1765411200&v=beta&t=vIieqEsRSQhxBoeantXrLL-Mt2rWC5YbU3BiC3ColOQ" align="left" alt="alt text" title="imagenDiego" height="200px" width="200px"/>
 
 
  **GitHub:** [nunezpl](https://github.com/nunezpl)
@@ -47,7 +43,7 @@ Soy Lorena Nuñez
 
 
 ## Diego Alejandro Albarracin Maldonado
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQHfxZR5n0om8g/profile-displayphoto-scale_400_400/B4EZimfF7NGcAk-/0/1755139826475?e=1759968000&v=beta&t=HwwwcHCXCbz_lpbv31AhkgH8As0tsni6mY5RZUNVfZQ" align="left" alt="alt text" title="imagenDiego" height="200px" width="200px"/>
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQHfxZR5n0om8g/profile-displayphoto-crop_800_800/B4EZimfF7NGcAM-/0/1755139826377?e=1765411200&v=beta&t=c6XHFQ48E0JXsIsG5xE-C9dqEKbEvSJFjH-AY3eeW0k" align="left" alt="alt text" title="imagenDiego" height="200px" width="200px"/>
 Soy Diego, actualmente estoy en séptimo semestre de ingeniería de sistemas. Me apasiona los temas relacionados con las ciencias de la computación e ingeniería de software, además, aprender de economía y estudiar conceptos avanzados de finanzas, como derivados financieros.
 
  **GitHub:** [diego4lbarracin](https://github.com/diego4lbarracin)
@@ -55,5 +51,5 @@ Soy Diego, actualmente estoy en séptimo semestre de ingeniería de sistemas. Me
 <br clear="left"/>
 
 # Directores del Trabajo de Grado
-- [Ing. Jairo Humberto Hurtado Londoño, Ph.D.](https://ingenieria.javeriana.edu.co/en/w/departamento-de-ingenier%C3%ADa-electr%C3%B3nica-profesores-9)
+- [Ing. Jairo Alberto Hurtado Londoño, Ph.D.](https://ingenieria.javeriana.edu.co/en/w/departamento-de-ingenier%C3%ADa-electr%C3%B3nica-profesores-9)
 - [Ing. Alejandro Castro Martínez, M.Sc.](https://www.linkedin.com/in/akamiz96/?originalSubdomain=co)
