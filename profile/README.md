@@ -43,7 +43,7 @@ Desarrollar un software educativo, implementado con páginas web interactivas, d
 
 
 ## Diego Alejandro Albarracin Maldonado
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQHfxZR5n0om8g/profile-displayphoto-crop_800_800/B4EZimfF7NGcAM-/0/1755139826377?e=1765411200&v=beta&t=c6XHFQ48E0JXsIsG5xE-C9dqEKbEvSJFjH-AY3eeW0k" align="left" alt="alt text" title="imagenDiego" height="200px" width="200px"/>
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQFn8OX60cAi3g/profile-displayphoto-scale_200_200/B4EZq8JnaKGUAY-/0/1764093231715?e=1765411200&v=beta&t=-y_GtWvm3vPWIK8KMy-GzCbpg8EfwTUwELM9CdxGFbA" align="left" alt="alt text" title="imagenDiego" height="200px" width="200px"/>
 Soy Diego, actualmente estoy en séptimo semestre de ingeniería de sistemas. Me apasiona los temas relacionados con las ciencias de la computación e ingeniería de software, además, aprender de economía y estudiar conceptos avanzados de finanzas, como derivados financieros.
 
  **GitHub:** [diego4lbarracin](https://github.com/diego4lbarracin)
